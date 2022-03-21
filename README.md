@@ -1,17 +1,17 @@
 Hi, i'm spdxz
 
 My languages skills 
-  HTML,
-  CSS,
-  Javascript
-  Python
-  --
-  Learning
-    C#,
-    C,
-    C++
+  HTML <br>
+  CSS<br>
+  Javascript<br>
+  Python<br>
+  --<br>
+  Learning<br>
+    C#<br>
+    C<br>
+    C++<br>
 
-Frameworks/Libs
-  Learning
-    Vue.js
-    Node.js
+Frameworks/Libs<br>
+  Learning<br>
+    Vue.js<br>
+    Node.js<br>
