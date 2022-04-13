@@ -1,5 +1,8 @@
 &spd a junior developer and open-source collaborator
 
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+
 <div align="center">
   <a href="https://github.com/spdxz1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spdxz1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
